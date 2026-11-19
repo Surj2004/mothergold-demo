@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://mother-gold.com/sitemap.xml
+Disallow: /
